@@ -12,15 +12,10 @@ This project is a clone of the popular streaming platform Hulu, designed to prov
 ## Technologies Used
 
 - **Frontend**:  
-  - React
+  - Next JS
   - Tailwind CSS / Material UI (or other CSS frameworks)
   - Axios (for making API requests)
   
-- **Backend** (Optional, if implemented):
-  - Node.js
-  - Express
-  - MongoDB (or other database)
-
 - **Other Tools**:
   - React Router (for navigation)
   - Firebase (optional, for authentication)
